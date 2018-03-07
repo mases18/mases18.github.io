@@ -1,0 +1,11 @@
+---
+title: Dr
+name: Xavier Devroey
+subtitle: SERG, Delft University of Technology
+layout: 2018_default
+img: xavier.jpg
+thumbnail: xavier.jpg
+alt: Xavier Devroey
+website: https://sites.google.com/site/xdevroey/
+description: Blah jose blah
+---

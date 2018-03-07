@@ -1,0 +1,11 @@
+---
+title: Dr
+name: Maxime Cordy
+subtitle: PReCISE, NADI, University of Namur / University of Luxembourg
+layout: 2018_default
+img: maxime.jpg
+thumbnail: maxime.jpg
+alt: Maxime Cordy
+website: https://directory.unamur.be/staff/mcordy
+description: Blah jose blah
+---

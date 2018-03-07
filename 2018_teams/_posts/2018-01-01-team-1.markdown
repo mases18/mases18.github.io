@@ -1,0 +1,11 @@
+---
+title: Dr
+name: Gilles Perrouin
+subtitle: PReCISE, NADI, University of Namur
+layout: 2018_default
+img: gilles.png
+thumbnail: gilles.png
+alt: Gilles Perrouin
+website: https://sites.google.com/site/gillesperrouin/
+description: Blah blah blah
+---
