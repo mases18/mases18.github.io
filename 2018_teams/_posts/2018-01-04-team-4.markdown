@@ -6,6 +6,6 @@ layout: 2018_default
 img: xavier.jpg
 thumbnail: xavier.jpg
 alt: Xavier Devroey
-website: https://sites.google.com/site/xdevroey/
+website: http://www.xdevroey.be
 description: Blah jose blah
 ---
