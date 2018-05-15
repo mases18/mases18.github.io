@@ -13,7 +13,7 @@
 
             <div class="row">
             {% for post in site.categories.2018_teams reversed %}
-                <div class="col-md-4 col-sm-6">
+                <div class="col-md-3 col-sm-6">
                     <center>
 			<a href="{{ post.website }}" class="portfolio-link" data-toggle="modal">
 			<img src="../css/2018_style/img/team/{{ post.img }}" class="img-responsive img-centered img-org" alt="">
@@ -32,21 +32,21 @@
                     <h3 class="section-subheading text-muted"></h3>
                 </div>
             </div>
-        <div class="row pc">
+<!--        <div class="row pc">
         	<div class="col-md-6 col-sm-6 pc-name"><p>TBA</p></div>
         </div>
-        <!--
+	    --> 
 	    {% for member in site.data.pc %}
 	    <div class="row pc">
             <div class="col-md-6 col-sm-6 pc-name">
-                     {{ member.Name }} {{ member.Surname }}
+                     {{ member.Surname }} {{ member.Name }}
 				</div>
 			<div class="col-md-6 col-sm-6 pc-affiliation">
                      {{member.Institution}} ({{member.Country}})
 			</div>
 	    </div>
 	    {% endfor %}
-	    -->
+
         </div>
     <!--</aside>-->
     </section>
