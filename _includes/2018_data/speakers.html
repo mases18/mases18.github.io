@@ -9,7 +9,7 @@
             </div>
             <div class="row">
             {% for post in site.categories.2018_speakers %}
-                <div class="speakers-item col-md-6 col-sm-6"><!--<div class="col-md-4 col-sm-6">-->
+                <div class="speakers-item"><!--<div class="speakers-item col-md-6 col-sm-6"><div class="col-md-4 col-sm-6">-->
                     {% if post.website != '' %}
                     <a href="#{{ post.name }}" class="speakers-link" data-toggle="modal">
                     {% endif %}
