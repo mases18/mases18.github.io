@@ -10,9 +10,9 @@ thumbnail: varoquaux.jpg
 alt: Gaël Varoquaux
 website: http://gael-varoquaux.info
 topic: >
-  TBA
+  Scikit-learn: Engineering high-quality machine-learning software with a community
 abstract: >
- TBA
+  Scikit-learn has grown from grassroots to one of most popular machine-learning packages. Good engineering choices —tests, numerics, APIs— likely helped, but I believe that the unique strength of scikit-learn is its broad and vibrant community. The community has brought features, quality, and ease of use to the library. Nurturing and scaling such a community calls for explicit choices and tradeoffs in the construction and maintenance of a project. I will detail how the maintenance and the development of scikit-learn was constructed around the community, to drive quality.
 bio: >
  Gaël Varoquaux is a tenured computer-science researcher at INRIA. His research develops statistical learning tools for functional neuroimaging data with application to mapping brain of cognition and pathologies. In addition, he is heavily invested in software development for data science, as project-lead for scikit-learn, one of the reference machine-learning toolboxes, and on joblib, Mayavi, and nilearn. Varoquaux has contributed key methods for functional brain atlasing, extracting brain connectomes, population studies, as well as efficient models for high-dimensional data-scarce machine learning beyond brain imaging. He has a PhD in quantum physics and is a graduate from Ecole Normale Superieure, Paris.
 ---
