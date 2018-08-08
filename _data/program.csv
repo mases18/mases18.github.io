@@ -1,2 +1,21 @@
-Title,Authors
-"",""
+Time,Title,Authors,Type
+08:00,Registration
+09:00,Opening
+09:05,"<b>Keynote:</b> Scikit-learn: Engineering High-Quality Machine-Learning Software with a Community",Gaël Varoquaux,Keynote
+10:00,Coffee
+,<b>Session 1</b>
+10:30,"Applying Graph Kernels to Model-Driven Engineering Problems","Robert Clarisó and Jordi Cabot",Paper
+11:00,"Learning-Based Testing for Autonomous Systems using Spatial and Temporal Requirements","Hojat Khosrowjerdi and Karl Meinke",Paper
+11:30,"Automatically Assessing Vulnerabilities Discovered by Compositional Analysis","Saahil Ognawala, Ricardo Nales Amato, Alexander Pretschner, and Pooja Kulkarni",Paper
+12:00,Lunch
+,<b>Session 2</b>
+13:30,"A Deep Learning Approach to Program Similarity","Niccolò Marastoni, Roberto Giacobazzi, and Mila Dalla Preda",Paper
+14:00,"A Language-Agnostic Model for Semantic Source Code Labeling","Ben Gelman, Bryan Hoyle, Jessica Moore, Joshua Saxe, and David Slater",Paper
+14:30,"Fast Deployment and Scoring of Support Vector Machine Models in CPU and GPU","Oscar Castro-Lopez and Ines F. Vega-Lopez",Paper
+15:00,Coffee
+,"<b>Invited <a href=""http://lamda.nju.edu.cn/conf/softwaremining18/"">Software Mining Workshop</a> session</b>"
+15:30,"Who Plays with Whom? ... and How? Mining API Interaction Patterns from Source Code","Robert Heumüller, Sebastian Nielebock, and Frank Ortmeier",Paper
+16:00,"Extracting Implicit Programming Rules: Comparing Static and Dynamic Approaches","Tarannum Shaila Zaman and Tingting Yu",Paper
+16:30,"Commits as a Basis for API Misuse Detection","Sebastian Nielebock, Robert Heumüller, and Frank Ortmeier",Paper
+17:00,"Within-Ecosystem Issue Linking: A Large-Scale Study of Rails","Yang Zhang, Yue Yu, Huaimin Wang, Bogdan Vasilescu, and Vladimir Filkov",Paper
+17:30,Closing
